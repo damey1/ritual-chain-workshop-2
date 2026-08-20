@@ -36,3 +36,4 @@
 workspace.yaml
 workspace.yml
 *.workspace
+pnpm-workspace.yaml
