@@ -1,0 +1,8 @@
+{
+  "name": "ritual-chain-workshop-2",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "frontend:start": "node hardhat/frontend/server.cjs"
+  }
+}
